@@ -1,6 +1,6 @@
 
 
-## Screen shots (milestones)
+## Screenshots 
 
 <div align="center">
 
