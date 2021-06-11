@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+
+    <FontFamily x:Key="SimpleFont">pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto</FontFamily>
+    <FontFamily x:Key="MahApps.Fonts.Family.ToggleSwitch">pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto Medium</FontFamily>
+    <FontFamily x:Key="MahApps.Fonts.Family.ToggleSwitch.Header">pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto Medium</FontFamily>
+
+</ResourceDictionary>
